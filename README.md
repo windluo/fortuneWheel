@@ -19,7 +19,8 @@
 > 静态资源，这个目录的资源一般放CDN
 #### src
 > 源码，主要工作目录
->> assets目录---放css、img等。注意*_function.styl*，36为基数，表示设计稿宽360，比如设计稿640*1080，36换成64即可 
+>> assets目录---放css、img等。
+注意*_function.styl*，36为基数，表示设计稿宽360，比如设计稿640*1080，36换成64即可 
 >> components目录---放公用组件  
 >> pages目录---放各页面组件  
 >> router目录---页面路由配置，详细配置看[vue-router](https://router.vuejs.org/zh-cn/)  
